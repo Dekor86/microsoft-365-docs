@@ -280,7 +280,7 @@ To receive notification when a file in SharePoint Online or OneDrive for Busines
 
 1. In the Microsoft 365 Defender portal at <https://security.microsoft.com>, go to **Email & collaboration** \> **Polices & rules** \> **Alert policy**.
 
-2. On the **Alert policy** page, click **New alert policy**.
+2. On the **Alert policy** page, click **New alert policy**.  <!-- incorrect-->
 
 3. The **New alert policy** wizard opens. On the **Name** page, configure the following settings:
    - **Name**: Enter a unique and descriptive name. For example, you could type Malicious Files in Libraries.
